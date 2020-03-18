@@ -2,7 +2,7 @@
 
 Terraform module which creates Cosmos account, adds firewall and security rules, and Mongo databases 
 
-An example Terragrunt output is provided below:
+Terragrunt instance example is provided below:
 
 ```hcl
 inputs = {
